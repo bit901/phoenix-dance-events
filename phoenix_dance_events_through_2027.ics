@@ -1,0 +1,114 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Phoenix Dance Events
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:D.O.D_at_Sunbar_(Tempe)@phoenixhouse.events
+DTSTAMP:20250425T210000
+DTSTART;TZID=America/Phoenix:20250425T210000
+DTEND;TZID=America/Phoenix:20250426T000000
+SUMMARY:D.O.D at Sunbar (Tempe)
+DESCRIPTION:*House, Tech House* – UK producer D.O.D performs with Lujan, Bayo & Eighkae
+LOCATION:Sunbar, 24 W 5th St, Tempe, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:JSTJR_at_Sunbar_(Tempe)@phoenixhouse.events
+DTSTAMP:20250426T210000
+DTSTART;TZID=America/Phoenix:20250426T210000
+DTEND;TZID=America/Phoenix:20250427T000000
+SUMMARY:JSTJR at Sunbar (Tempe)
+DESCRIPTION:*House, Global Bass* – JSTJR with ZENLIFE & J.LUPE
+LOCATION:Sunbar, 24 W 5th St, Tempe, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:Cosmic_Gate_at_Sunbar_(Tempe)@phoenixhouse.events
+DTSTAMP:20250503T210000
+DTSTART;TZID=America/Phoenix:20250503T210000
+DTEND;TZID=America/Phoenix:20250504T000000
+SUMMARY:Cosmic Gate at Sunbar (Tempe)
+DESCRIPTION:_Trance_ – German trance legends Cosmic Gate + Lujan & Jahvelle
+LOCATION:Sunbar, 24 W 5th St, Tempe, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:Mall_Grab_at_Sunbar_(Tempe)@phoenixhouse.events
+DTSTAMP:20250508T210000
+DTSTART;TZID=America/Phoenix:20250508T210000
+DTEND;TZID=America/Phoenix:20250509T000000
+SUMMARY:Mall Grab at Sunbar (Tempe)
+DESCRIPTION:*House, Bass House* – Mall Grab with Avitas, Ethan Eisner & Lore
+LOCATION:Sunbar, 24 W 5th St, Tempe, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:House_Rewind_-_90s_&_2000s_Classics@phoenixhouse.events
+DTSTAMP:20250510T210000
+DTSTART;TZID=America/Phoenix:20250510T210000
+DTEND;TZID=America/Phoenix:20250511T000000
+SUMMARY:House Rewind - 90s & 2000s Classics
+DESCRIPTION:*Classic House* – Nostalgic 90s/00s night
+LOCATION:Stacy's at Melrose, 4343 N 7th Ave, Phoenix, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:Opulent_Temple:_Vintage_Culture,_Doozie_&_Syd_Gris@phoenixhouse.events
+DTSTAMP:20250523T210000
+DTSTART;TZID=America/Phoenix:20250523T210000
+DTEND;TZID=America/Phoenix:20250524T000000
+SUMMARY:Opulent Temple: Vintage Culture, Doozie & Syd Gris
+DESCRIPTION:*House, Progressive House* – Headline event with major talent
+LOCATION:Walter Where?House, 747 W Roosevelt St, Phoenix, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:Eli_&_Fur_at_Sunbar@phoenixhouse.events
+DTSTAMP:20250523T210000
+DTSTART;TZID=America/Phoenix:20250523T210000
+DTEND;TZID=America/Phoenix:20250524T000000
+SUMMARY:Eli & Fur at Sunbar
+DESCRIPTION:*Deep House, Tech House* – Support from Sydney Blu & Nikita Rising
+LOCATION:Sunbar, Tempe, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:Ahadadream_w/_Lance_Fairchild@phoenixhouse.events
+DTSTAMP:20250524T210000
+DTSTART;TZID=America/Phoenix:20250524T210000
+DTEND;TZID=America/Phoenix:20250525T000000
+SUMMARY:Ahadadream w/ Lance Fairchild
+DESCRIPTION:_Techno_ – UK underground vibes with free RSVP before 11 PM
+LOCATION:Walter Where?House, Phoenix, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:Deeper_Purpose_w/_Rafi_&_Eta@phoenixhouse.events
+DTSTAMP:20250531T210000
+DTSTART;TZID=America/Phoenix:20250531T210000
+DTEND;TZID=America/Phoenix:20250601T000000
+SUMMARY:Deeper Purpose w/ Rafi & Eta
+DESCRIPTION:*Tech House* – Fast-rising UK talent + local support
+LOCATION:Walter Where?House, Phoenix, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:Capulus_Set:_Coffee_&_House@phoenixhouse.events
+DTSTAMP:20250601T100000
+DTSTART;TZID=America/Phoenix:20250601T100000
+DTEND;TZID=America/Phoenix:20250601T130000
+SUMMARY:Capulus Set: Coffee & House
+DESCRIPTION:*Soulful House, Day Party* – MIGZ & CEEZ + coffee culture
+LOCATION:711 E Missouri Ave, Phoenix, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:Claude_VonStroke_-_Life_of_Leisure_Tour@phoenixhouse.events
+DTSTAMP:20250606T210000
+DTSTART;TZID=America/Phoenix:20250606T210000
+DTEND;TZID=America/Phoenix:20250607T000000
+SUMMARY:Claude VonStroke - Life of Leisure Tour
+DESCRIPTION:*Deep House, Funky House* – Dirtybird leader returns
+LOCATION:Walter Where?House, Phoenix, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:Techno_Snobs:_Anfisa_Letyago@phoenixhouse.events
+DTSTAMP:20250621T210000
+DTSTART;TZID=America/Phoenix:20250621T210000
+DTEND;TZID=America/Phoenix:20250622T000000
+SUMMARY:Techno Snobs: Anfisa Letyago
+DESCRIPTION:_Techno_ – Italian powerhouse headlines high-BPM night
+LOCATION:Walter Studios, 747 W Roosevelt St, Phoenix, AZ
+END:VEVENT
+END:VCALENDAR
