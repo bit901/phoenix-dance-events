@@ -1,0 +1,280 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Phoenix House Master Calendar//EN
+BEGIN:VEVENT
+SUMMARY:Green Velvet presents La La Land [Tech House]
+DTSTART;TZID=America/Phoenix:20250214T200000
+DTEND;TZID=America/Phoenix:20250215T235900
+LOCATION:Warehouse 215, Phoenix
+DESCRIPTION:Green Velvet presents La La Land - Tech House at Warehouse 215, Phoenix
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Techno Snobs presents Spring XL [Afro / Organic / Tech House]
+DTSTART;TZID=America/Phoenix:20250315T200000
+DTEND;TZID=America/Phoenix:20250315T235900
+LOCATION:Secret Warehouse, Phoenix
+DESCRIPTION:Techno Snobs presents Spring XL - Afro / Organic / Tech House at Secret Warehouse, Phoenix
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Sidepiece – Sex Sells Tour [Tech House]
+DTSTART;TZID=America/Phoenix:20250411T200000
+DTEND;TZID=America/Phoenix:20250411T235900
+LOCATION:Sunbar, Tempe
+DESCRIPTION:Sidepiece – Sex Sells Tour - Tech House at Sunbar, Tempe
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Malaa – Memorial Day Weekend [G-House / Bass House]
+DTSTART;TZID=America/Phoenix:20250525T200000
+DTEND;TZID=America/Phoenix:20250525T235900
+LOCATION:Maya Dayclub, Scottsdale
+DESCRIPTION:Malaa – Memorial Day Weekend - G-House / Bass House at Maya Dayclub, Scottsdale
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Benny Benassi [Electro House]
+DTSTART;TZID=America/Phoenix:20250525T200000
+DTEND;TZID=America/Phoenix:20250525T235900
+LOCATION:Sunbar, Tempe
+DESCRIPTION:Benny Benassi - Electro House at Sunbar, Tempe
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Deeper Purpose w/ Rafi & Eta [Tech House]
+DTSTART;TZID=America/Phoenix:20250531T200000
+DTEND;TZID=America/Phoenix:20250531T235900
+LOCATION:Walter Where?House, Phoenix
+DESCRIPTION:Deeper Purpose w/ Rafi & Eta - Tech House at Walter Where?House, Phoenix
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Black V Neck [Tech House / Bass House]
+DTSTART;TZID=America/Phoenix:20250531T200000
+DTEND;TZID=America/Phoenix:20250531T235900
+LOCATION:Darkstar, Tempe
+DESCRIPTION:Black V Neck - Tech House / Bass House at Darkstar, Tempe
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Wuki [House / Electro]
+DTSTART;TZID=America/Phoenix:20250531T200000
+DTEND;TZID=America/Phoenix:20250531T235900
+LOCATION:Sunbar, Tempe
+DESCRIPTION:Wuki - House / Electro at Sunbar, Tempe
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Claude VonStroke & Miluhska [Funky House / Tech House]
+DTSTART;TZID=America/Phoenix:20250606T200000
+DTEND;TZID=America/Phoenix:20250606T235900
+LOCATION:Walter Where?House, Phoenix
+DESCRIPTION:Claude VonStroke & Miluhska - Funky House / Tech House at Walter Where?House, Phoenix
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Season Closing: Armen Miran, Mâ, Peter Blick [Tech House / Organic House]
+DTSTART;TZID=America/Phoenix:20250607T200000
+DTEND;TZID=America/Phoenix:20250607T235900
+LOCATION:Walter Where?House, Phoenix
+DESCRIPTION:Season Closing: Armen Miran, Mâ, Peter Blick - Tech House / Organic House at Walter Where?House, Phoenix
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Walter Studios 3-Year Anniversary w/ Catz ’N Dogz [Deep House / Tech House]
+DTSTART;TZID=America/Phoenix:20250613T200000
+DTEND;TZID=America/Phoenix:20250613T235900
+LOCATION:Walter Studios, Phoenix
+DESCRIPTION:Walter Studios 3-Year Anniversary w/ Catz ’N Dogz - Deep House / Tech House at Walter Studios, Phoenix
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Dennis Ferrer & Nasser Baker [House]
+DTSTART;TZID=America/Phoenix:20250620T200000
+DTEND;TZID=America/Phoenix:20250620T235900
+LOCATION:Walter Studios, Phoenix
+DESCRIPTION:Dennis Ferrer & Nasser Baker - House at Walter Studios, Phoenix
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Ownboss & Adapter [Tech House]
+DTSTART;TZID=America/Phoenix:20250620T200000
+DTEND;TZID=America/Phoenix:20250620T235900
+LOCATION:Sunbar, Tempe
+DESCRIPTION:Ownboss & Adapter - Tech House at Sunbar, Tempe
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Atrip [House / Bass House]
+DTSTART;TZID=America/Phoenix:20250620T200000
+DTEND;TZID=America/Phoenix:20250620T235900
+LOCATION:Darkstar, Tempe
+DESCRIPTION:Atrip - House / Bass House at Darkstar, Tempe
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Tchami [Future House]
+DTSTART;TZID=America/Phoenix:20250622T200000
+DTEND;TZID=America/Phoenix:20250622T235900
+LOCATION:Maya Day & Nightclub, Scottsdale
+DESCRIPTION:Tchami - Future House at Maya Day & Nightclub, Scottsdale
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Mark Knight [Tech House]
+DTSTART;TZID=America/Phoenix:20250627T200000
+DTEND;TZID=America/Phoenix:20250627T235900
+LOCATION:Sunbar, Tempe
+DESCRIPTION:Mark Knight - Tech House at Sunbar, Tempe
+END:VEVENT
+END:VCALENDAR
+BEGIN:VEVENT
+UID:D.O.D_at_Sunbar_(Tempe)@phoenixhouse.events
+DTSTAMP:20250425T210000
+DTSTART;TZID=America/Phoenix:20250425T210000
+DTEND;TZID=America/Phoenix:20250426T000000
+SUMMARY:D.O.D at Sunbar (Tempe)
+DESCRIPTION:*House, Tech House* – UK producer D.O.D performs with Lujan, Bayo & Eighkae
+LOCATION:Sunbar, 24 W 5th St, Tempe, AZ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:JSTJR_at_Sunbar_(Tempe)@phoenixhouse.events
+DTSTAMP:20250426T210000
+DTSTART;TZID=America/Phoenix:20250426T210000
+DTEND;TZID=America/Phoenix:20250427T000000
+SUMMARY:JSTJR at Sunbar (Tempe)
+DESCRIPTION:*House, Global Bass* – JSTJR with ZENLIFE & J.LUPE
+LOCATION:Sunbar, 24 W 5th St, Tempe, AZ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:Cosmic_Gate_at_Sunbar_(Tempe)@phoenixhouse.events
+DTSTAMP:20250503T210000
+DTSTART;TZID=America/Phoenix:20250503T210000
+DTEND;TZID=America/Phoenix:20250504T000000
+SUMMARY:Cosmic Gate at Sunbar (Tempe)
+DESCRIPTION:_Trance_ – German trance legends Cosmic Gate + Lujan & Jahvelle
+LOCATION:Sunbar, 24 W 5th St, Tempe, AZ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:Mall_Grab_at_Sunbar_(Tempe)@phoenixhouse.events
+DTSTAMP:20250508T210000
+DTSTART;TZID=America/Phoenix:20250508T210000
+DTEND;TZID=America/Phoenix:20250509T000000
+SUMMARY:Mall Grab at Sunbar (Tempe)
+DESCRIPTION:*House, Bass House* – Mall Grab with Avitas, Ethan Eisner & Lore
+LOCATION:Sunbar, 24 W 5th St, Tempe, AZ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:House_Rewind_-_90s_&_2000s_Classics@phoenixhouse.events
+DTSTAMP:20250510T210000
+DTSTART;TZID=America/Phoenix:20250510T210000
+DTEND;TZID=America/Phoenix:20250511T000000
+SUMMARY:House Rewind - 90s & 2000s Classics
+DESCRIPTION:*Classic House* – Nostalgic 90s/00s night
+LOCATION:Stacy's at Melrose, 4343 N 7th Ave, Phoenix, AZ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:Opulent_Temple:_Vintage_Culture,_Doozie_&_Syd_Gris@phoenixhouse.events
+DTSTAMP:20250523T210000
+DTSTART;TZID=America/Phoenix:20250523T210000
+DTEND;TZID=America/Phoenix:20250524T000000
+SUMMARY:Opulent Temple: Vintage Culture, Doozie & Syd Gris
+DESCRIPTION:*House, Progressive House* – Headline event with major talent
+LOCATION:Walter Where?House, 747 W Roosevelt St, Phoenix, AZ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:Eli_&_Fur_at_Sunbar@phoenixhouse.events
+DTSTAMP:20250523T210000
+DTSTART;TZID=America/Phoenix:20250523T210000
+DTEND;TZID=America/Phoenix:20250524T000000
+SUMMARY:Eli & Fur at Sunbar
+DESCRIPTION:*Deep House, Tech House* – Support from Sydney Blu & Nikita Rising
+LOCATION:Sunbar, Tempe, AZ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:Ahadadream_w/_Lance_Fairchild@phoenixhouse.events
+DTSTAMP:20250524T210000
+DTSTART;TZID=America/Phoenix:20250524T210000
+DTEND;TZID=America/Phoenix:20250525T000000
+SUMMARY:Ahadadream w/ Lance Fairchild
+DESCRIPTION:_Techno_ – UK underground vibes with free RSVP before 11 PM
+LOCATION:Walter Where?House, Phoenix, AZ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:Deeper_Purpose_w/_Rafi_&_Eta@phoenixhouse.events
+DTSTAMP:20250531T210000
+DTSTART;TZID=America/Phoenix:20250531T210000
+DTEND;TZID=America/Phoenix:20250601T000000
+SUMMARY:Deeper Purpose w/ Rafi & Eta
+DESCRIPTION:*Tech House* – Fast-rising UK talent + local support
+LOCATION:Walter Where?House, Phoenix, AZ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:Capulus_Set:_Coffee_&_House@phoenixhouse.events
+DTSTAMP:20250601T100000
+DTSTART;TZID=America/Phoenix:20250601T100000
+DTEND;TZID=America/Phoenix:20250601T130000
+SUMMARY:Capulus Set: Coffee & House
+DESCRIPTION:*Soulful House, Day Party* – MIGZ & CEEZ + coffee culture
+LOCATION:711 E Missouri Ave, Phoenix, AZ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:Claude_VonStroke_-_Life_of_Leisure_Tour@phoenixhouse.events
+DTSTAMP:20250606T210000
+DTSTART;TZID=America/Phoenix:20250606T210000
+DTEND;TZID=America/Phoenix:20250607T000000
+SUMMARY:Claude VonStroke - Life of Leisure Tour
+DESCRIPTION:*Deep House, Funky House* – Dirtybird leader returns
+LOCATION:Walter Where?House, Phoenix, AZ
+END:VEVENT
+
+BEGIN:VEVENT
+UID:Techno_Snobs:_Anfisa_Letyago@phoenixhouse.events
+DTSTAMP:20250621T210000
+DTSTART;TZID=America/Phoenix:20250621T210000
+DTEND;TZID=America/Phoenix:20250622T000000
+SUMMARY:Techno Snobs: Anfisa Letyago
+DESCRIPTION:_Techno_ – Italian powerhouse headlines high-BPM night
+LOCATION:Walter Studios, 747 W Roosevelt St, Phoenix, AZ
+END:VEVENT
+END:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:Orange Opulence [House / Disco]
+DTSTART;TZID=America/Phoenix:20250614T220000
+DTEND;TZID=America/Phoenix:20250615T023000
+LOCATION:Phoenix, AZ (Venue TBA)
+DESCRIPTION:Orange Opulence - House and Disco night. Tickets: $30-40 presale / $50 door. 21+ event.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dirty Yachtin' Scoundrels [House]
+DTSTART;TZID=America/Phoenix:20250621T190000
+DTEND;TZID=America/Phoenix:20250621T230000
+LOCATION:Cactus Jack's Bar & Grill, Tempe
+DESCRIPTION:Dirty Yachtin' Scoundrels - House music event at Cactus Jack's Bar & Grill.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CASA TULUM - A Tulum Inspired House Music Party [House]
+DTSTART;TZID=America/Phoenix:20250725T210000
+DTEND;TZID=America/Phoenix:20250726T020000
+LOCATION:The Rebel Lounge, Phoenix
+DESCRIPTION:CASA TULUM - Tulum Inspired House Music Party at The Rebel Lounge.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Desert Hearts Festival 2025 [House / Techno]
+DTSTART;TZID=America/Phoenix:20250703T120000
+DTEND;TZID=America/Phoenix:20250707T120000
+LOCATION:Walter Studios / Playa Ponderosa (Venue TBD)
+DESCRIPTION:Desert Hearts Festival 2025 - House, Techno, & Love. Tickets range $59-$7999.
+END:VEVENT
+END:VCALENDAR
