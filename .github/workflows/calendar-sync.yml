@@ -3,7 +3,7 @@ name: Phoenix House Calendar Sync
 on:
   schedule:
     - cron: '0 3 * * *'  # runs daily at 3AM UTC
-  workflow_dispatch:
+  workflow_dispatch:  # allows you to manually trigger anytime
 
 jobs:
   update-calendar:
@@ -15,7 +15,7 @@ jobs:
 
     - name: Download latest calendar from Google Drive
       run: |
-        curl -L "<YOUR_PUBLIC_DOWNLOAD_LINK>" -o Phoenix_House_Master_Events_2025.ics
+        curl -L "https://drive.google.com/uc?export=download&id=1LBxChOu4hxx0lpzeIuOQG2JvRdJbNrhn" -o Phoenix_House_Master_Events_2025.ics
 
     - name: Commit and push updated calendar file
       run: |
